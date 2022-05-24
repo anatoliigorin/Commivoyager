@@ -1,0 +1,144 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (SFMLtest.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(57,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(57,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(58,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(58,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(66,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(66,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(67,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(67,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(75,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(77,49): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(82,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(85,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(148,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(149,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(151,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(155,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(158,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(162,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(166,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(182,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(183,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(186,32): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(190,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(193,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(197,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(201,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(243,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(243,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(251,68): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(270,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(298,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(300,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(490,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(499,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(523,63): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(523,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(549,63): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(549,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(551,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(557,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(562,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(592,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(592,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(602,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(602,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(609,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(614,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(614,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(619,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(619,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(639,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(639,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(649,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(678,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(678,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(679,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\tlkch\source\repos\SFMLtest\Source.cpp(679,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFMLtest.vcxproj -> C:\Users\tlkch\source\repos\SFMLtest\Debug\commivoyager.exe
